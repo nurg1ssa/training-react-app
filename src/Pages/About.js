@@ -32,30 +32,40 @@ export default class About extends Component {
                   <Tab.Pane eventKey="first">
                     <img
                       src='https://media.istockphoto.com/photos/get-out-those-hats-summers-here-picture-id1074886550?k=20&m=1074886550&s=612x612&w=0&h=UuRSDq7UrOeE5xrIl6Kz90bks4Sr94aURmzD-oCpVJY='
+                      style={{ width: '100%' }}
+
                     />
                     first
                   </Tab.Pane>
                   <Tab.Pane eventKey="second">
                     <img
                       src='https://media.istockphoto.com/photos/get-out-those-hats-summers-here-picture-id1074886550?k=20&m=1074886550&s=612x612&w=0&h=UuRSDq7UrOeE5xrIl6Kz90bks4Sr94aURmzD-oCpVJY='
+                      style={{ width: '100%' }}
+
                     />
                     second
                   </Tab.Pane>
                   <Tab.Pane eventKey="third">
                     <img
                       src='https://media.istockphoto.com/photos/get-out-those-hats-summers-here-picture-id1074886550?k=20&m=1074886550&s=612x612&w=0&h=UuRSDq7UrOeE5xrIl6Kz90bks4Sr94aURmzD-oCpVJY='
+                      style={{ width: '100%' }}
+
                     />
                     third
                   </Tab.Pane>
                   <Tab.Pane eventKey="fourth">
                     <img
                       src='https://media.istockphoto.com/photos/get-out-those-hats-summers-here-picture-id1074886550?k=20&m=1074886550&s=612x612&w=0&h=UuRSDq7UrOeE5xrIl6Kz90bks4Sr94aURmzD-oCpVJY='
+                      style={{ width: '100%' }}
+
                     />
                     fourth
                   </Tab.Pane>
                   <Tab.Pane eventKey="fifth">
                     <img
                       src='https://media.istockphoto.com/photos/get-out-those-hats-summers-here-picture-id1074886550?k=20&m=1074886550&s=612x612&w=0&h=UuRSDq7UrOeE5xrIl6Kz90bks4Sr94aURmzD-oCpVJY='
+                      style={{ width: '100%' }}
+
                     />
                     fifth
                   </Tab.Pane>

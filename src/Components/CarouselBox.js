@@ -10,8 +10,7 @@ export default class CarouselBox extends Component {
       <Carousel>
         <Carousel.Item>
           <img
-            width={1440}
-            height={800}
+            style={{ width: '100%' }}
             className='d-block'
             src={girl1}
             alt="girl1"
@@ -23,8 +22,7 @@ export default class CarouselBox extends Component {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            width={1440}
-            height={800}
+            style={{ width: '100%' }}
             className='d-block'
             src={girl2}
             alt="girl2"
