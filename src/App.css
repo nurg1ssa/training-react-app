@@ -5,7 +5,6 @@
   "h"
   "c";
   grid-template-rows: 56px 1fr;
-  grid-template-columns: 1fr 2fr;
 }
 .app-wraper-content{
   grid-area: c;
