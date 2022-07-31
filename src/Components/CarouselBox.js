@@ -7,34 +7,34 @@ import girl2 from '../assets/girl2.jpg'
 export default class CarouselBox extends Component {
   render() {
     return (
-        <Carousel>
-            <Carousel.Item>
-                <img
-                width={1440}
-                height={800}
-                className='d-block'
-                src={girl1}
-                alt="girl1"
-                />
-                <Carousel.Caption>
-           <h1>Girl on beach</h1>
-           <p>bla bla bla bla bla bla bla</p>
-            </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img
-                width={1440}
-                height={800}
-                className='d-block'
-                src={girl2}
-                alt="girl2"
-                />
-                <Carousel.Caption>
-           <h1>Girl on beach</h1>
-           <p>bla bla bla bla bla bla bla</p>
-            </Carousel.Caption>
-            </Carousel.Item>
-        </Carousel>
+      <Carousel>
+        <Carousel.Item>
+          <img
+            width={1440}
+            height={800}
+            className='d-block'
+            src={girl1}
+            alt="girl1"
+          />
+          <Carousel.Caption>
+            <h1>Girl on beach</h1>
+            <p>bla bla bla bla bla bla bla</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img
+            width={1440}
+            height={800}
+            className='d-block'
+            src={girl2}
+            alt="girl2"
+          />
+          <Carousel.Caption>
+            <h1>Girl on beach</h1>
+            <p>bla bla bla bla bla bla bla</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+      </Carousel>
     )
   }
 }
